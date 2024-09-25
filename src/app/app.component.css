@@ -1,0 +1,9 @@
+.card {
+    transition: background-color 0.3s;
+  }
+  
+  .card-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
